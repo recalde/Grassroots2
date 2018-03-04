@@ -1,0 +1,10 @@
+C:\git\Grassroots\src\Grassroots\bin\Debug\netcoreapp2.0\Grassroots.deps.json
+C:\git\Grassroots\src\Grassroots\bin\Debug\netcoreapp2.0\Grassroots.runtimeconfig.json
+C:\git\Grassroots\src\Grassroots\bin\Debug\netcoreapp2.0\Grassroots.runtimeconfig.dev.json
+C:\git\Grassroots\src\Grassroots\bin\Debug\netcoreapp2.0\Grassroots.dll
+C:\git\Grassroots\src\Grassroots\bin\Debug\netcoreapp2.0\Grassroots.pdb
+C:\git\Grassroots\src\Grassroots\obj\Debug\netcoreapp2.0\Grassroots.csproj.CoreCompileInputs.cache
+C:\git\Grassroots\src\Grassroots\obj\Debug\netcoreapp2.0\Grassroots.AssemblyInfoInputs.cache
+C:\git\Grassroots\src\Grassroots\obj\Debug\netcoreapp2.0\Grassroots.AssemblyInfo.cs
+C:\git\Grassroots\src\Grassroots\obj\Debug\netcoreapp2.0\Grassroots.dll
+C:\git\Grassroots\src\Grassroots\obj\Debug\netcoreapp2.0\Grassroots.pdb
